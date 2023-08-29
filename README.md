@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SampathKuppili
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and python Django
 - 💞️ I’m looking to collaborate on web development technologys
 - 📫 How to reach me sampathkuppili43@gmail.com
 
